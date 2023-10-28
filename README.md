@@ -1,3 +1,9 @@
+#Password Generator
+
+![image](https://github.com/mohit5723/password-generator/assets/113592385/e59b48cb-ad38-4d97-8beb-66b0c118e0f1)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
