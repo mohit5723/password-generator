@@ -1,5 +1,11 @@
 #Password Generator
 
+#Before copying:
+
+![image](https://github.com/mohit5723/password-generator/assets/113592385/eeaf2421-c5db-41fa-9259-447f9f149655)
+
+#After copying:
+
 ![image](https://github.com/mohit5723/password-generator/assets/113592385/e59b48cb-ad38-4d97-8beb-66b0c118e0f1)
 
 
